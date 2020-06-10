@@ -6,6 +6,8 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
+numpy = "*"
+requests = "==2.23.0"
 
 [requires]
 python_version = "3.8"
